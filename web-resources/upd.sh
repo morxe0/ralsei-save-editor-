@@ -26,4 +26,4 @@ echo "Downloading favicon..."
 wget -q -O web-resources/images/favicon.png \
     "https://github.com/morxe0/ralsei-save-editor-/blob/731717734c29aed2934b9c112f87261bc7da806b/favicon.png"
 
-echo "All files downloaded to ./web-resources"
+echo "All files downloaded to ./web-resources" #
